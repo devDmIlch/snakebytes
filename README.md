@@ -1,1 +1,3 @@
 # snakebytes
+
+This is a personal project where I test different stuff. Whatever...
